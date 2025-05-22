@@ -1,5 +1,9 @@
 # Trello Clone - Kanban Board Application
 
+
+Uploading Untitled video - Made with Clipchamp.mp4…
+
+
 ## Project Overview
 A fully functional Kanban board application inspired by Trello, built with React and modern web technologies. This project demonstrates advanced front-end development skills including drag-and-drop functionality, state management, and responsive design.
 
