@@ -34,7 +34,7 @@ A fully functional Kanban board application inspired by Trello, built with React
 ## Code Highlights
 
 ### Drag & Drop Logic
-  javascript
+```javascript
 const handleDragStart = (e, card, fromBoardId) => {
   setDraggedCard(card);
   setDraggedFrom(fromBoardId);
