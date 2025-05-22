@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sufia2740/TO-DO-board/static/css/main.14d53c93.css",
+    "main.js": "/sufia2740/TO-DO-board/static/js/main.7d3abb17.js",
+    "static/js/453.3f0abe9d.chunk.js": "/sufia2740/TO-DO-board/static/js/453.3f0abe9d.chunk.js",
+    "index.html": "/sufia2740/TO-DO-board/index.html",
+    "main.14d53c93.css.map": "/sufia2740/TO-DO-board/static/css/main.14d53c93.css.map",
+    "main.7d3abb17.js.map": "/sufia2740/TO-DO-board/static/js/main.7d3abb17.js.map",
+    "453.3f0abe9d.chunk.js.map": "/sufia2740/TO-DO-board/static/js/453.3f0abe9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14d53c93.css",
+    "static/js/main.7d3abb17.js"
+  ]
+}
